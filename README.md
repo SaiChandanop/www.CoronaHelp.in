@@ -1,10 +1,13 @@
 # www.CoronaHelp.in
 Website to Help People during Covid-19 
 CoronaHelp
+
 Title of the project
+
 A website to help locate stores open during lockdown
 
 Description
+
 With the government implementing a lockdown to curb the spread of COVID-19, it is essential that all citizens co-operate with these measures and stay at home. For everyday essentials, we have seen that some stores have pulled their shutters down or have limited supplies, while others have come forward to offer home delivery to promote citizens to stay at home. It has become difficult to understand which stores around us are open for necessary supplies and where to go to find them.
 
 Currently, we see a lot of people cluttering in only certain stores, because they are not sure whether other stores are open or not, and are not aware of which stores are offering home delivery. This beats the purpose of the lockdown and 'social distancing', and increases the risk of infection.
@@ -16,7 +19,7 @@ Through our website, shop owners and other businessmen can add their stores and 
 Hardware and Software Requirements
 None
 
-Process Flow
+Process Flow.
 Shop owners: Through our website, shop owners and other businessmen can add their store and details such as location, contact, shop timings, supplies available like groceries, vegetables, fruits, milk, medicines etc. They can also state whether they are providing home delivery.
 
 Users: Users can search for stores in a particular area and can see the relevant details. They can also search for more specific results by applying filters. For example, show only those stores providing groceries and having facility for home delivery.
